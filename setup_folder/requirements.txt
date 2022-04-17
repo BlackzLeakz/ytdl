@@ -1,0 +1,4 @@
+PySide2
+PySide6
+pyqt5
+GitPython
